@@ -9,3 +9,4 @@ scikit_learn==0.24.2
 scipy==1.5.4
 tensorflow==2.6.0
 llvmlite==0.36.0
+fairlearn==0.7.0
